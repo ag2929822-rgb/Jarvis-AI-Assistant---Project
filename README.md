@@ -33,12 +33,10 @@ OS, Webbrowser
 📂 Project Structure
 Jarvis-AI-Assistant/
 │
-├── main.py
-├── requirements.txt
 ├── README.md
-├── assets/
-│   └── audio/
-└── utils/
+├── client
+├── main
+├── musiclibrary
 
 ⚙️ Installation
 

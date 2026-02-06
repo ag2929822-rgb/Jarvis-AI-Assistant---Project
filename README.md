@@ -96,10 +96,6 @@ Resume / GitHub portfolio
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-📜 License
-
-This project is licensed under the MIT License.
-
 ⭐ Show Your Support
 
 If you like this project, don’t forget to ⭐ the repository!
